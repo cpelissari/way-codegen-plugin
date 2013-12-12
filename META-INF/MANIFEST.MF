@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Way-codegen-pluginz;singleton:=true
+Bundle-SymbolicName: way-codegen-plugin
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: way_codegen_plugin.Activator
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
